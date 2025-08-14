@@ -253,4 +253,3 @@ Contribuições são bem-vindas! Por favor:
 - [Oracle Database Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/)
 - [n8n Community Nodes](https://docs.n8n.io/integrations/community-nodes/)
 - [Oracle node-oracledb Documentation](https://node-oracledb.readthedocs.io/)
-```
