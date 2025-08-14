@@ -1,3 +1,5 @@
-export interface DatabaseConnection<T> {
-  getConnection: () => Promise<T>;
+import { Connection } from "oracledb";
+
+export interface DatabaseConnection {
+    getConnection(): Promise<Connection>;
 }

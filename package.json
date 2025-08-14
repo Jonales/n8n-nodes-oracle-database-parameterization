@@ -1,10 +1,13 @@
 {
   "name": "n8n-nodes-oracle-database-parameterization",
-  "version": "1.1.4",
-  "description": "",
+  "version": "1.2.0",
+  "description": "Oracle Database node with embedded thin client support - no external Oracle CLI required",
   "keywords": [
     "n8n-community-node-package",
-    "oracle"
+    "oracle",
+    "database",
+    "thin-client",
+    "embedded"
   ],
   "license": "MIT",
   "homepage": "",
@@ -51,6 +54,6 @@
     "typescript": "~4.6.0"
   },
   "dependencies": {
-    "oracledb": "^6.0.1"
+    "oracledb": "^6.3.0"
   }
 }
