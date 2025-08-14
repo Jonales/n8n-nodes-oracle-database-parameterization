@@ -242,9 +242,9 @@ Contribuições são bem-vindas! Por favor:
 
 ## 👨‍💻 Autor
 
-**Joshua Griffin**  
-📧 josh.griff00@gmail.com  
-🔗 [GitHub Repository](https://github.com/jgriffin1/n8n-nodes-oracle-database-parameterization)
+**Jônatas Meireles**  
+📧 jonatas.mei@outlook.com  
+🔗 [GitHub Repository](https://github.com/jonales/n8n-nodes-oracle-database-parameterization)
 
 ---
 
