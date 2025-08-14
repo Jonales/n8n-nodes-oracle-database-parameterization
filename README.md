@@ -248,6 +248,21 @@ Contribuições são bem-vindas! Por favor:
 
 ---
 
+
+### **💰 Apoie o projeto**
+
+Se este projeto te ajudou, considere fazer uma contribuição via **PIX** para apoiar seu desenvolvimento contínuo:
+
+
+🔑 Chave PIX: jonatas.mei@outlook.com
+
+### Chave PIX
+![QR Code PIX](image/README/qrcode-pix-jonatas.mei@outlook.com.png)
+
+
+👨💻 Desenvolvedor: Jônatas Meireles Sousa Vieira
+
+
 ## 📚 Links úteis
 
 - [Oracle Database Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/)
