@@ -6,3 +6,4 @@ package-lock.json
 .env
 *.log
 *.tmp
+package-lock.json
