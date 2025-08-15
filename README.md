@@ -1,5 +1,9 @@
 # n8n-nodes-oracle-database-thin
 
+[![npm version](https://img.shields.io/npm/v/@jonales/n8n-nodes-oracle-database-thin.svg)](https://www.npmjs.com/package/@jonales/n8n-nodes-oracle-database-thin)
+[![npm downloads](https://img.shields.io/npm/dt/@jonales/n8n-nodes-oracle-database-thin.svg)](https://www.npmjs.com/package/@jonales/n8n-nodes-oracle-database-thin)
+
+
 [Oracle Database](https://docs.oracle.com/en/database/oracle/oracle-database/) node para **n8n**, com **suporte integrado ao cliente fino (thin mode)** e **parametrização avançada de consultas SQL**.
 
 > **🎉 Versão 1.2.0 - Atualização Importante**  
