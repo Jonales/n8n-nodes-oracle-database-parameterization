@@ -1,4 +1,4 @@
-# n8n-nodes-oracle-database-parameterization
+# n8n-nodes-oracle-database-thin
 
 [Oracle Database](https://docs.oracle.com/en/database/oracle/oracle-database/) node para **n8n**, com **suporte integrado ao cliente fino (thin mode)** e **parametrização avançada de consultas SQL**.
 
@@ -37,7 +37,7 @@ Forked de [n8n-nodes-oracle-database](https://www.npmjs.com/package/n8n-nodes-or
 ## 🚀 Instalação
 
 ```
-npm install n8n-nodes-oracle-database-parameterization
+npm install n8n-nodes-oracle-database-thin
 ```
 
 > 💡 **Não é necessário** instalar Oracle Instant Client, configurar `LD_LIBRARY_PATH` ou qualquer dependência externa.
@@ -70,7 +70,7 @@ adb.sa-saopaulo-1.oraclecloud.com:1522/g4c12345_dbname_high.adb.oraclecloud.com
 
 ### 2. Usar o node no workflow
 
-Adicione o node **Oracle Database with Parameterization** ao seu workflow e configure a consulta SQL com parâmetros.
+Adicione o node **Oracle Database with thin** ao seu workflow e configure a consulta SQL com parâmetros.
 
 ---
 
@@ -141,13 +141,13 @@ npm run build
 npm link
 
 # No diretório do seu projeto n8n
-npm link n8n-nodes-oracle-database-parameterization
+npm link n8n-nodes-oracle-database-thin
 
 # Iniciar n8n e testar
 # ...
 
 # Quando terminar os testes
-npm unlink n8n-nodes-oracle-database-parameterization
+npm unlink n8n-nodes-oracle-database-thin
 ```
 
 ### Build do projeto
@@ -244,7 +244,7 @@ Contribuições são bem-vindas! Por favor:
 
 **Jônatas Meireles**  
 📧 jonatas.mei@outlook.com  
-🔗 [GitHub Repository](https://github.com/jonales/n8n-nodes-oracle-database-parameterization)
+🔗 [GitHub Repository](https://github.com/jonales/n8n-nodes-oracle-database-thin)
 
 ---
 
