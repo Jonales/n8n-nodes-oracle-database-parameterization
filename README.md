@@ -41,7 +41,7 @@ Forked de [n8n-nodes-oracle-database](https://www.npmjs.com/package/n8n-nodes-or
 ## 🚀 Instalação
 
 ```
-npm install n8n-nodes-oracle-database-thin
+npm install @jonales/n8n-nodes-oracle-database-thin
 ```
 
 > 💡 **Não é necessário** instalar Oracle Instant Client, configurar `LD_LIBRARY_PATH` ou qualquer dependência externa.
@@ -145,13 +145,13 @@ npm run build
 npm link
 
 # No diretório do seu projeto n8n
-npm link n8n-nodes-oracle-database-thin
+npm link @jonales/n8n-nodes-oracle-database-thin
 
 # Iniciar n8n e testar
 # ...
 
 # Quando terminar os testes
-npm unlink n8n-nodes-oracle-database-thin
+npm unlink @jonales/n8n-nodes-oracle-database-thin
 ```
 
 ### Build do projeto
