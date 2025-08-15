@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-oracle-database-parameterization",
+  "name": "n8n-nodes-oracle-database-thin",
   "version": "1.2.0",
   "description": "Oracle Database node with embedded thin client support - no external Oracle CLI required",
   "keywords": [
@@ -12,12 +12,12 @@
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "Joshua Griffin",
-    "email": "josh.griff00@gmail.com"
+    "name": "Jônatas Meireles",
+    "email": "jonatas.mei@outlook.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jgriffin1/n8n-nodes-oracle-database-parameterization.git"
+    "url": "https://github.com/jonales/n8n-nodes-oracle-database-thin.git"
   },
   "main": "index.js",
   "scripts": {
